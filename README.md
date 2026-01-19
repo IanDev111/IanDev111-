@@ -46,5 +46,5 @@ I am a strategic technical leader bridging the gap between **Business Goals** an
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanDev111&show_icons=true&theme=radical)
 
 ### 📫 Connect
-* **LinkedIn:** [linkedin.com/in/ivanparracasallas](https://linkedin.com/in/ivanparracasallas)
+* **LinkedIn:** [linkedin.com/in/ivanparracasallas](https://linkedin.com/in/ivan-parra-casallas-91906a18a/)
 * **Agency:** [arknica.com](https://arknica.com)
